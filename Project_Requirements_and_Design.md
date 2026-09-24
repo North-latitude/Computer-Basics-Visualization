@@ -28,8 +28,7 @@
 | （填队友C） | 测试与日志 | 测试程序Bug，记录AI_Prompts_Log.md |
 
 ## 6. 参考图片
-![数据链路层帧结构](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ethernet_Type_II_Frame_format.svg/800px-Ethernet_Type_II_Frame_format.svg.png)
-*(注：这里是一张网络数据帧结构的图片链接，展示底层通信原理)*
+![ppp帧格式](https://raw.githubusercontent.com/North-latitude/Computer-Basics-Visualization/refs/heads/main/ppp_frame.png)
 
 ## 7. 开源协议
 本项目采用 MIT License 开源协议。
